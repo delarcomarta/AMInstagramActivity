@@ -1,4 +1,4 @@
 # AMInstagramActivity
 Activity Instagram in ActivityViewController
 
-![alt tag](http://gyazo.com/efe7742981e9368aaef3cc06655b00ee)
+![alt tag](https://raw.github.com/delarcomarta/AMInstagramActivity/branch/path/to/photo1.png)
