@@ -19,7 +19,8 @@ Typical usage will look something like this:
 
 
 
-![Demo screenshot](https://gyazo.com/bf2be88bb3012b4aa11f8408d3b808b9)
+![Demo screenshot](https://raw.github.com/delarcomarta/AMInstagramActivity/master/photo1.png)
+![Demo screenshot](https://raw.github.com/delarcomarta/AMInstagramActivity/master/photo2.png)
 
 ## Author
 
